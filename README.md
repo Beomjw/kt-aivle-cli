@@ -60,5 +60,5 @@
 
 [구글](http://google.com, "검색 사이트")
 
-![이미지 연습](https://blog.naver.com/common/util/imageZoom.jsp?url=https://blogpfthumb-phinf.pstatic.net/MjAyMzEwMjNfNTUg/MDAxNjk4MDUwMTYzNjYw.qJXgN2_fuTEPDN-d2qt3E6DQtOAJbBqRNbYvoxbnA0Ig.28Ogmeqj8TbLa2v-nY9eLMA6Fe4f589rH1jc3SHpplkg.PNG.hdbgo2581/profileImage.png&rClickYn=false&isOwner=true#)
+![숲 속 사진](./images/KakaoTalk_20240225_153256776.jpg)
 
